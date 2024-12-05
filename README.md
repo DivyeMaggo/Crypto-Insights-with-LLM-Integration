@@ -38,7 +38,7 @@ Before running the project, ensure that you have the following installed:
 
 ## Configuration
 
-1. Create a `.env` file in the root of the project to store your API keys:
+1. Create your own GEMINI api key and add in the `.env` file in the root of the project to store your API keys:
     ```
     GEMINI_API_KEY=your-openai-api-key
     ```
