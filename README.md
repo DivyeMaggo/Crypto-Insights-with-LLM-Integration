@@ -28,7 +28,7 @@ Before running the project, ensure that you have the following installed:
 
 2. Navigate to the project directory:
     ```bash
-    cd crypto-insights-analyzer
+    cd  Crypto-Insights-with-LLM-Integration
     ```
 
 3. No dependencies required.
